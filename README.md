@@ -1,2 +1,6 @@
 # teamInfo
-Info about the mavericks
+Info about the mavericks:
+
+Team members:
+Niall
+Olivia
